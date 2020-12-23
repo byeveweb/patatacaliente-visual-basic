@@ -1,0 +1,11 @@
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.vbprojAssemblyReference.cache
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack_A.Resources.resources
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.vbproj.GenerateResource.cache
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.vbproj.CoreCompileInputs.cache
+C:\Users\asus_\source\repos\FeedBack-A\bin\Debug\FeedBack-A.exe.config
+C:\Users\asus_\source\repos\FeedBack-A\bin\Debug\FeedBack-A.exe
+C:\Users\asus_\source\repos\FeedBack-A\bin\Debug\FeedBack-A.pdb
+C:\Users\asus_\source\repos\FeedBack-A\bin\Debug\FeedBack-A.xml
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.exe
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.xml
+C:\Users\asus_\source\repos\FeedBack-A\obj\Debug\FeedBack-A.pdb
